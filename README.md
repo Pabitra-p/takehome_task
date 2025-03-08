@@ -6,5 +6,5 @@ I used ChatGPT to:
 - Receive help with API integration and CLI implementation.
 - Debug and improve efficiency.
 
-Full conversation log: [Link to document]
+Full conversation log: [https://drive.google.com/drive/folders/1biEiF4bPURBAozR4lANESb3NyUv8lB9R?usp=drive_link]
 
