@@ -20,3 +20,8 @@ curl -sSL https://install.python-poetry.org | python3 -
 poetry install
 poetry run get-papers-list "cancer research" -f results.csv
 
+### **Command-line Options**
+- `-h, --help` : Show usage instructions.
+- `-d, --debug` : Enable debug mode.
+- `-f, --file <filename>` : Save results to a CSV file.
+
